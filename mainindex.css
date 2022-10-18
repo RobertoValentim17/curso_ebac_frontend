@@ -109,3 +109,18 @@ section h2 {
     background-color: darkgreen ;
 }
 
+#e-sports {
+    background-color: rgba(0, 140, 255, 0.247);
+}
+
+#e-sports .articles article a {
+    background-color: rgba(9, 45, 209, 0.616) ;
+}
+
+#tecnologia {
+    background-color: rgba(247, 76, 9, 0.212);
+}
+
+#tecnologia .articles article a {
+    background-color: rgba(134, 63, 8, 0.616) ;
+}
